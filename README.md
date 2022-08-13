@@ -1,6 +1,6 @@
-# creativityapp
+# CreativityApp
 
-A new Flutter project.
+A new Flutter project which I#ve implemnted during the FlutterMapp Video Course (https://fluttermapp.com/)
 
 ## Getting Started
 
